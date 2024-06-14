@@ -16,6 +16,8 @@ export default function RootLayout({
                 alt="Auth image"
                 width={500}
                 height={500}
+                style={{width:'auto', height: "auto" }}
+                className="rounded-l-xl object-contain"
               />
             </div>
           </div>

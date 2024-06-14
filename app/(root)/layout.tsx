@@ -23,6 +23,7 @@ export default async function RootLayout({
               src='./icons/logo.svg'
               width={30}
               height={30}
+              style={{ width: 'auto', height: 'auto' }}
               alt='logo'
             />
             <div>
